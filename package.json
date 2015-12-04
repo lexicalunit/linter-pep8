@@ -11,6 +11,9 @@
   "dependencies": {
     "atom-linter": "^1.0.0"
   },
+  "optionalDependencies": {
+    "fix-path": "^1.0.0"
+  },
   "providedServices": {
     "linter": {
       "versions": {
